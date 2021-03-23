@@ -1,0 +1,5 @@
+/* Fix for minor padding issue in letter headings */
+
+h5 {
+    padding-left: 1rem;
+}
